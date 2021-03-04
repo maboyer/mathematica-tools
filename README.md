@@ -1,5 +1,7 @@
 <a id="mathematica-tools" style="width:0;height:0;margin:0;padding:0;">&zwnj;</a>
 
+[![View notebooks](https://wolfr.am/HAAhzkRq)](https://wolfr.am/TKbHB1aW)
+
 # Mathematica Tools
 
 This is a collection of basic Mathematica tools, generally implemented as one-off packages.
